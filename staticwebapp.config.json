@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "route": "/test",
+      "methods": [
+        "get"
+      ],
+      "redirect": "https://google.com",
+      "statusCode": 301
+    }
+  ]
+}
